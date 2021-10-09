@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Plex
-    url: http://maynardserver.duckdns.org:32400
+  - name: Mealie
+    url: http://maynardserver.duckdns.org:9925
   - name: Home Assistant
     url: http://maynardserver.duckdns.org:8123
   - name: Test Broken Site
