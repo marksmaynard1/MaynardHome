@@ -12,7 +12,7 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: Overseer
-    url: http://maynardserver.ducjdns.org:5055
+    url: http://maynardserver.duckdns.org:5055
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
