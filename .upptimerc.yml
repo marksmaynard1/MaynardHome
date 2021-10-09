@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Plex
-    url: https://maynardserver.duckdns.org:32400
+    url: http://maynardserver.duckdns.org:32400
   - name: Home Assistant
     url: http://maynardserver.duckdns.org:8123
   - name: Test Broken Site
