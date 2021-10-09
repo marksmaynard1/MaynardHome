@@ -18,24 +18,22 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Plex",
-    "url": "http://maynardserver.duckdns.org:32400",
+    "name": "Mealie",
+    "url": "http://maynardserver.duckdns.org:9925",
     "icon": "https://favicons.githubusercontent.com/maynardserver.duckdns.org",
-    "slug": "plex",
-    "status": "down",
-    "uptime": "2.20%",
-    "uptimeDay": "2.20%",
-    "uptimeWeek": "2.20%",
-    "uptimeMonth": "2.20%",
-    "uptimeYear": "2.20%",
-    "time": 264,
-    "timeDay": 264,
-    "timeWeek": 264,
-    "timeMonth": 264,
-    "timeYear": 264,
-    "dailyMinutesDown": {
-      "2021-10-09": 1
-    }
+    "slug": "mealie",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 591,
+    "timeDay": 591,
+    "timeWeek": 591,
+    "timeMonth": 591,
+    "timeYear": 591,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Home Assistant",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 232,
-    "timeWeek": 232,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "time": 277,
+    "timeDay": 277,
+    "timeWeek": 277,
+    "timeMonth": 277,
+    "timeYear": 277,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 953,
-    "timeDay": 953,
-    "timeWeek": 953,
-    "timeMonth": 953,
-    "timeYear": 953,
+    "time": 1099,
+    "timeDay": 1099,
+    "timeWeek": 1099,
+    "timeMonth": 1099,
+    "timeYear": 1099,
     "dailyMinutesDown": {}
   }
 ]
