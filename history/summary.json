@@ -34,7 +34,7 @@
     "timeMonth": 444,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2021-10-14": 43,
+      "2021-10-14": 932,
       "2021-10-13": 1440,
       "2021-10-12": 1440,
       "2021-10-11": 1440,
@@ -83,9 +83,9 @@
     "url": "http://maynardserver.duckdns.org:5055",
     "icon": "https://favicons.githubusercontent.com/maynardserver.duckdns.org",
     "slug": "overseer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -94,6 +94,8 @@
     "timeWeek": 1207,
     "timeMonth": 1207,
     "timeYear": 1207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-14": 0
+    }
   }
 ]
