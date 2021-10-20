@@ -34,7 +34,7 @@
     "timeMonth": 411,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2021-10-20": 48,
+      "2021-10-20": 1133,
       "2021-10-19": 1440,
       "2021-10-18": 1440,
       "2021-10-17": 1440,
@@ -53,10 +53,10 @@
     "url": "http://maynardserver.duckdns.org:8123",
     "icon": "https://favicons.githubusercontent.com/maynardserver.duckdns.org",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
@@ -64,7 +64,9 @@
     "timeWeek": 252,
     "timeMonth": 269,
     "timeYear": 269,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-20": 1
+    }
   },
   {
     "name": "Test Broken Site",
@@ -89,18 +91,19 @@
     "url": "http://maynardserver.duckdns.org:5055",
     "icon": "https://favicons.githubusercontent.com/maynardserver.duckdns.org",
     "slug": "overseer",
-    "status": "up",
-    "uptime": "90.87%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "91.48%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "86.20%",
-    "uptimeMonth": "90.87%",
-    "uptimeYear": "90.87%",
+    "uptimeMonth": "91.48%",
+    "uptimeYear": "91.48%",
     "time": 1123,
     "timeDay": 772,
     "timeWeek": 909,
     "timeMonth": 1123,
     "timeYear": 1123,
     "dailyMinutesDown": {
+      "2021-10-20": 0,
       "2021-10-15": 883,
       "2021-10-14": 508
     }
