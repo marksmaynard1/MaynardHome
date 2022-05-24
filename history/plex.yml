@@ -1,7 +1,7 @@
 url: http://maynardserver.duckdns.org:32400
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-05-23T23:11:24.398Z
+code: 401
+responseTime: 469
+lastUpdated: 2022-05-24T23:11:20.902Z
 startTime: Sat Oct 09 2021 15:03:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
