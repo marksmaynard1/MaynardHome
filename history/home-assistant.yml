@@ -1,7 +1,7 @@
 url: http://maynardserver.duckdns.org:8123
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-06-03T16:18:37.046Z
+status: up
+code: 200
+responseTime: 196
+lastUpdated: 2022-06-03T16:49:13.360Z
 startTime: Sat Oct 09 2021 10:53:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
