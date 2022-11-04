@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 69,
-    "timeWeek": 136,
+    "timeDay": 87,
+    "timeWeek": 123,
     "timeMonth": 111,
     "timeYear": 121,
     "dailyMinutesDown": {}
@@ -28,13 +28,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 502,
-    "timeDay": 205,
-    "timeWeek": 367,
-    "timeMonth": 522,
+    "time": 501,
+    "timeDay": 290,
+    "timeWeek": 346,
+    "timeMonth": 519,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2022-11-03": 387,
+      "2022-11-04": 88,
+      "2022-11-03": 1440,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
@@ -397,8 +398,7 @@
       "2021-11-08": 1440,
       "2021-11-07": 1440,
       "2021-11-06": 1440,
-      "2021-11-05": 1440,
-      "2021-11-04": 1440
+      "2021-11-05": 1440
     }
   },
   {
@@ -409,13 +409,13 @@
     "status": "up",
     "uptime": "98.95%",
     "uptimeDay": "98.19%",
-    "uptimeWeek": "99.36%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "98.93%",
     "time": 356,
-    "timeDay": 212,
-    "timeWeek": 278,
-    "timeMonth": 346,
+    "timeDay": 251,
+    "timeWeek": 288,
+    "timeMonth": 343,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2022-11-03": 26,
@@ -465,8 +465,7 @@
       "2022-01-15": 137,
       "2021-12-26": 18,
       "2021-11-14": 111,
-      "2021-11-13": 21,
-      "2021-11-04": 20
+      "2021-11-13": 21
     }
   },
   {
@@ -493,18 +492,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "43.79%",
+    "uptime": "43.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.23%",
+    "uptimeYear": "40.02%",
     "time": 919,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 897,
+    "timeYear": 898,
     "dailyMinutesDown": {
-      "2022-11-03": 387,
+      "2022-11-04": 88,
+      "2022-11-03": 1440,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
