@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 95,
+    "timeDay": 78,
     "timeWeek": 85,
     "timeMonth": 112,
-    "timeYear": 121,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   },
   {
@@ -29,12 +29,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 501,
-    "timeDay": 392,
-    "timeWeek": 343,
-    "timeMonth": 524,
-    "timeYear": 508,
+    "timeDay": 561,
+    "timeWeek": 364,
+    "timeMonth": 532,
+    "timeYear": 509,
     "dailyMinutesDown": {
-      "2022-11-05": 84,
+      "2022-11-06": 84,
+      "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
@@ -397,8 +398,7 @@
       "2021-11-10": 1440,
       "2021-11-09": 1440,
       "2021-11-08": 1440,
-      "2021-11-07": 1440,
-      "2021-11-06": 1440
+      "2021-11-07": 1440
     }
   },
   {
@@ -412,11 +412,11 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "98.94%",
-    "time": 356,
-    "timeDay": 396,
-    "timeWeek": 285,
-    "timeMonth": 343,
-    "timeYear": 366,
+    "time": 357,
+    "timeDay": 531,
+    "timeWeek": 311,
+    "timeMonth": 349,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2022-11-03": 26,
       "2022-10-27": 38,
@@ -492,18 +492,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "43.59%",
+    "uptime": "43.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.74%",
+    "uptimeYear": "39.47%",
     "time": 919,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 898,
+    "timeYear": 899,
     "dailyMinutesDown": {
-      "2022-11-05": 84,
+      "2022-11-06": 85,
+      "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
@@ -735,8 +736,7 @@
       "2021-11-10": 1440,
       "2021-11-09": 1440,
       "2021-11-08": 244,
-      "2021-11-07": 38,
-      "2021-11-06": 17
+      "2021-11-07": 38
     }
   }
 ]
