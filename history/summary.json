@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 72,
-    "timeWeek": 84,
-    "timeMonth": 103,
+    "timeDay": 62,
+    "timeWeek": 79,
+    "timeMonth": 102,
     "timeYear": 120,
     "dailyMinutesDown": {}
   },
@@ -28,13 +28,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 500,
-    "timeDay": 201,
-    "timeWeek": 359,
-    "timeMonth": 529,
-    "timeYear": 509,
+    "time": 499,
+    "timeDay": 192,
+    "timeWeek": 332,
+    "timeMonth": 523,
+    "timeYear": 506,
     "dailyMinutesDown": {
-      "2022-11-07": 477,
+      "2022-11-08": 82,
+      "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
@@ -397,8 +398,7 @@
       "2021-11-12": 1440,
       "2021-11-11": 1440,
       "2021-11-10": 1440,
-      "2021-11-09": 1440,
-      "2021-11-08": 1440
+      "2021-11-09": 1440
     }
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "98.93%",
     "time": 356,
-    "timeDay": 256,
-    "timeWeek": 310,
-    "timeMonth": 346,
+    "timeDay": 254,
+    "timeWeek": 287,
+    "timeMonth": 342,
     "timeYear": 367,
     "dailyMinutesDown": {
       "2022-11-07": 47,
@@ -493,18 +493,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "43.34%",
+    "uptime": "43.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.13%",
+    "uptimeYear": "38.93%",
     "time": 919,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 901,
+    "timeYear": 899,
     "dailyMinutesDown": {
-      "2022-11-07": 477,
+      "2022-11-08": 82,
+      "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
@@ -736,8 +737,7 @@
       "2021-11-12": 324,
       "2021-11-11": 1440,
       "2021-11-10": 1440,
-      "2021-11-09": 1440,
-      "2021-11-08": 244
+      "2021-11-09": 1440
     }
   }
 ]
