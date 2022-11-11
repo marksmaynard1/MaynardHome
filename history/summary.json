@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 80,
-    "timeWeek": 80,
+    "timeDay": 183,
+    "timeWeek": 94,
     "timeMonth": 99,
     "timeYear": 119,
     "dailyMinutesDown": {}
@@ -28,13 +28,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 498,
-    "timeDay": 203,
-    "timeWeek": 305,
-    "timeMonth": 518,
+    "time": 497,
+    "timeDay": 310,
+    "timeWeek": 308,
+    "timeMonth": 519,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2022-11-10": 84,
+      "2022-11-11": 85,
+      "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
@@ -397,8 +398,7 @@
       "2021-11-15": 1440,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
-      "2021-11-12": 1440,
-      "2021-11-11": 1440
+      "2021-11-12": 1440
     }
   },
   {
@@ -409,13 +409,13 @@
     "status": "up",
     "uptime": "98.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.27%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "98.93%",
     "time": 355,
-    "timeDay": 212,
-    "timeWeek": 292,
-    "timeMonth": 328,
+    "timeDay": 204,
+    "timeWeek": 291,
+    "timeMonth": 326,
     "timeYear": 367,
     "dailyMinutesDown": {
       "2022-11-07": 47,
@@ -493,7 +493,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "43.04%",
+    "uptime": "42.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -502,9 +502,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 900,
+    "timeYear": 901,
     "dailyMinutesDown": {
-      "2022-11-10": 84,
+      "2022-11-11": 85,
+      "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
@@ -736,8 +737,7 @@
       "2021-11-28": 54,
       "2021-11-14": 110,
       "2021-11-13": 84,
-      "2021-11-12": 324,
-      "2021-11-11": 1440
+      "2021-11-12": 324
     }
   }
 ]
