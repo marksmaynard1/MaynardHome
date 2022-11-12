@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 183,
-    "timeWeek": 94,
-    "timeMonth": 99,
+    "timeDay": 91,
+    "timeWeek": 93,
+    "timeMonth": 100,
     "timeYear": 119,
     "dailyMinutesDown": {}
   },
@@ -29,12 +29,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 497,
-    "timeDay": 310,
-    "timeWeek": 308,
-    "timeMonth": 519,
-    "timeYear": 505,
+    "timeDay": 388,
+    "timeWeek": 307,
+    "timeMonth": 518,
+    "timeYear": 502,
     "dailyMinutesDown": {
-      "2022-11-11": 85,
+      "2022-11-12": 81,
+      "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
@@ -397,8 +398,7 @@
       "2021-11-16": 1440,
       "2021-11-15": 1440,
       "2021-11-14": 1440,
-      "2021-11-13": 1440,
-      "2021-11-12": 1440
+      "2021-11-13": 1440
     }
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "98.93%",
     "time": 355,
-    "timeDay": 204,
-    "timeWeek": 291,
-    "timeMonth": 326,
+    "timeDay": 389,
+    "timeWeek": 290,
+    "timeMonth": 327,
     "timeYear": 367,
     "dailyMinutesDown": {
       "2022-11-07": 47,
@@ -493,7 +493,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "42.93%",
+    "uptime": "42.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -504,7 +504,8 @@
     "timeMonth": 0,
     "timeYear": 901,
     "dailyMinutesDown": {
-      "2022-11-11": 85,
+      "2022-11-12": 81,
+      "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
@@ -736,8 +737,7 @@
       "2021-12-22": 240,
       "2021-11-28": 54,
       "2021-11-14": 110,
-      "2021-11-13": 84,
-      "2021-11-12": 324
+      "2021-11-13": 84
     }
   }
 ]
