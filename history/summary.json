@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 371,
-    "timeWeek": 123,
-    "timeMonth": 111,
-    "timeYear": 113,
+    "timeDay": 93,
+    "timeWeek": 125,
+    "timeMonth": 112,
+    "timeYear": 112,
     "dailyMinutesDown": {}
   },
   {
@@ -29,12 +29,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 516,
-    "timeDay": 318,
-    "timeWeek": 627,
-    "timeMonth": 663,
+    "timeDay": 547,
+    "timeWeek": 658,
+    "timeMonth": 674,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2022-12-21": 61,
+      "2022-12-22": 64,
+      "2022-12-21": 1440,
       "2022-12-20": 1440,
       "2022-12-19": 1440,
       "2022-12-18": 1440,
@@ -397,8 +398,7 @@
       "2021-12-26": 1440,
       "2021-12-25": 1440,
       "2021-12-24": 1440,
-      "2021-12-23": 1440,
-      "2021-12-22": 1440
+      "2021-12-23": 1440
     }
   },
   {
@@ -413,10 +413,10 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "98.91%",
     "time": 373,
-    "timeDay": 396,
-    "timeWeek": 315,
+    "timeDay": 332,
+    "timeWeek": 317,
     "timeMonth": 369,
-    "timeYear": 397,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2022-12-15": 22,
       "2022-12-13": 23,
@@ -498,18 +498,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "39.01%",
+    "uptime": "38.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "28.13%",
+    "uptimeYear": "27.86%",
     "time": 919,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 920,
+    "timeYear": 922,
     "dailyMinutesDown": {
-      "2022-12-21": 62,
+      "2022-12-22": 64,
+      "2022-12-21": 1440,
       "2022-12-20": 1440,
       "2022-12-19": 1440,
       "2022-12-18": 1440,
@@ -777,8 +778,7 @@
       "2022-02-17": 119,
       "2022-01-17": 24,
       "2022-01-15": 260,
-      "2022-01-07": 87,
-      "2021-12-22": 240
+      "2022-01-07": 87
     }
   }
 ]
