@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 80,
-    "timeWeek": 120,
-    "timeMonth": 110,
+    "timeDay": 157,
+    "timeWeek": 90,
+    "timeMonth": 113,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -28,13 +28,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 538,
-    "timeDay": 373,
-    "timeWeek": 1432,
-    "timeMonth": 848,
+    "time": 537,
+    "timeDay": 368,
+    "timeWeek": 1438,
+    "timeMonth": 849,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2023-01-14": 63,
+      "2023-01-15": 70,
+      "2023-01-14": 1440,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
@@ -397,8 +398,7 @@
       "2022-01-19": 1440,
       "2022-01-18": 1440,
       "2022-01-17": 1440,
-      "2022-01-16": 1440,
-      "2022-01-15": 1440
+      "2022-01-16": 1440
     }
   },
   {
@@ -411,12 +411,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "98.88%",
+    "uptimeYear": "98.89%",
     "time": 412,
-    "timeDay": 305,
-    "timeWeek": 363,
-    "timeMonth": 817,
-    "timeYear": 454,
+    "timeDay": 411,
+    "timeWeek": 372,
+    "timeMonth": 819,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2023-01-11": 22,
       "2023-01-08": 55,
@@ -475,8 +475,7 @@
       "2022-02-06": 28,
       "2022-01-30": 26,
       "2022-01-29": 26,
-      "2022-01-17": 50,
-      "2022-01-15": 137
+      "2022-01-17": 50
     }
   },
   {
@@ -503,18 +502,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "36.98%",
+    "uptime": "36.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.62%",
+    "uptimeYear": "21.35%",
     "time": 896,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 927,
+    "timeYear": 929,
     "dailyMinutesDown": {
-      "2023-01-14": 63,
+      "2023-01-15": 70,
+      "2023-01-14": 1440,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
@@ -804,8 +804,7 @@
       "2022-02-19": 1440,
       "2022-02-18": 819,
       "2022-02-17": 119,
-      "2022-01-17": 24,
-      "2022-01-15": 260
+      "2022-01-17": 24
     }
   }
 ]
