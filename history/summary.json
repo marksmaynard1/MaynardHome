@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 162,
+    "timeDay": 81,
     "timeWeek": 88,
     "timeMonth": 123,
     "timeYear": 112,
@@ -28,13 +28,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 534,
-    "timeDay": 314,
-    "timeWeek": 319,
-    "timeMonth": 817,
-    "timeYear": 564,
+    "time": 537,
+    "timeDay": 1984,
+    "timeWeek": 556,
+    "timeMonth": 866,
+    "timeYear": 568,
     "dailyMinutesDown": {
-      "2023-01-28": 1289,
+      "2023-01-29": 72,
+      "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
@@ -397,8 +398,7 @@
       "2022-02-02": 1440,
       "2022-02-01": 1440,
       "2022-01-31": 1440,
-      "2022-01-30": 1440,
-      "2022-01-29": 1440
+      "2022-01-30": 1440
     }
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "99.59%",
     "uptimeYear": "98.90%",
     "time": 429,
-    "timeDay": 2280,
-    "timeWeek": 998,
-    "timeMonth": 778,
+    "timeDay": 3285,
+    "timeWeek": 1004,
+    "timeMonth": 779,
     "timeYear": 481,
     "dailyMinutesDown": {
       "2023-01-28": 16,
@@ -477,8 +477,7 @@
       "2022-02-18": 116,
       "2022-02-17": 119,
       "2022-02-06": 28,
-      "2022-01-30": 26,
-      "2022-01-29": 26
+      "2022-01-30": 26
     }
   },
   {
@@ -505,18 +504,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "35.83%",
+    "uptime": "35.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.61%",
-    "time": 896,
+    "uptimeYear": "17.56%",
+    "time": 897,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 938,
+    "timeYear": 940,
     "dailyMinutesDown": {
-      "2023-01-28": 1289,
+      "2023-01-29": 72,
+      "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
