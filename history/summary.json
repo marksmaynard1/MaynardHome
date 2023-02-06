@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 77,
+    "timeDay": 76,
     "timeWeek": 77,
-    "timeMonth": 112,
+    "timeMonth": 109,
     "timeYear": 111,
     "dailyMinutesDown": {}
   },
@@ -28,13 +28,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 534,
-    "timeDay": 616,
+    "time": 533,
+    "timeDay": 322,
     "timeWeek": 328,
-    "timeMonth": 710,
+    "timeMonth": 708,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2023-02-05": 72,
+      "2023-02-06": 65,
+      "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -397,8 +398,7 @@
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
-      "2022-02-07": 1440,
-      "2022-02-06": 1440
+      "2022-02-07": 1440
     }
   },
   {
@@ -408,14 +408,14 @@
     "slug": "home-assistant",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "98.71%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "98.89%",
     "time": 434,
-    "timeDay": 773,
-    "timeWeek": 525,
-    "timeMonth": 685,
+    "timeDay": 333,
+    "timeWeek": 399,
+    "timeMonth": 695,
     "timeYear": 487,
     "dailyMinutesDown": {
       "2023-02-04": 19,
@@ -478,8 +478,7 @@
       "2022-03-11": 23,
       "2022-03-10": 134,
       "2022-02-18": 116,
-      "2022-02-17": 119,
-      "2022-02-06": 28
+      "2022-02-17": 119
     }
   },
   {
@@ -506,18 +505,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "35.30%",
+    "uptime": "35.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.65%",
+    "uptimeYear": "15.37%",
     "time": 901,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 955,
+    "timeYear": 953,
     "dailyMinutesDown": {
-      "2023-02-05": 72,
+      "2023-02-06": 65,
+      "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
