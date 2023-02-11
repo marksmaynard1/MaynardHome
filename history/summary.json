@@ -34,7 +34,7 @@
     "timeMonth": 686,
     "timeYear": 560,
     "dailyMinutesDown": {
-      "2023-02-11": 1371,
+      "2023-02-11": 1378,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
@@ -406,9 +406,9 @@
     "url": "http://maynardserver.duckdns.org:8123",
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "98.68%",
+    "uptimeDay": "98.63%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "98.87%",
@@ -418,7 +418,7 @@
     "timeMonth": 730,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2023-02-11": 19,
+      "2023-02-11": 20,
       "2023-02-10": 49,
       "2023-02-07": 28,
       "2023-02-04": 19,
@@ -519,7 +519,7 @@
     "timeMonth": 0,
     "timeYear": 966,
     "dailyMinutesDown": {
-      "2023-02-11": 1371,
+      "2023-02-11": 1378,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
