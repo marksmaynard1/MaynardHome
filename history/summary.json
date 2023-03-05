@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 361,
-    "timeWeek": 132,
+    "timeDay": 79,
+    "timeWeek": 130,
     "timeMonth": 114,
     "timeYear": 103,
     "dailyMinutesDown": {}
@@ -29,12 +29,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 543,
-    "timeDay": 292,
-    "timeWeek": 702,
-    "timeMonth": 613,
+    "timeDay": 328,
+    "timeWeek": 529,
+    "timeMonth": 603,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2023-03-04": 68,
+      "2023-03-05": 79,
+      "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
       "2023-03-01": 1440,
@@ -397,8 +398,7 @@
       "2022-03-09": 1440,
       "2022-03-08": 1440,
       "2022-03-07": 1440,
-      "2022-03-06": 1440,
-      "2022-03-05": 1440
+      "2022-03-06": 1440
     }
   },
   {
@@ -410,12 +410,12 @@
     "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.36%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "98.89%",
     "time": 466,
-    "timeDay": 383,
-    "timeWeek": 372,
-    "timeMonth": 641,
+    "timeDay": 344,
+    "timeWeek": 366,
+    "timeMonth": 628,
     "timeYear": 515,
     "dailyMinutesDown": {
       "2023-02-28": 18,
@@ -511,7 +511,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "33.43%",
+    "uptime": "33.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -522,7 +522,8 @@
     "timeMonth": 0,
     "timeYear": 986,
     "dailyMinutesDown": {
-      "2023-03-04": 68,
+      "2023-03-05": 79,
+      "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
       "2023-03-01": 1440,
@@ -843,8 +844,7 @@
       "2022-04-20": 1440,
       "2022-04-19": 959,
       "2022-03-10": 134,
-      "2022-03-06": 633,
-      "2022-03-05": 1440
+      "2022-03-06": 633
     }
   }
 ]
