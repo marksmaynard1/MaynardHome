@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 348,
-    "timeWeek": 199,
+    "timeDay": 76,
+    "timeWeek": 158,
     "timeMonth": 121,
     "timeYear": 105,
     "dailyMinutesDown": {}
@@ -28,13 +28,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 559,
-    "timeDay": 508,
-    "timeWeek": 534,
-    "timeMonth": 749,
-    "timeYear": 574,
+    "time": 560,
+    "timeDay": 403,
+    "timeWeek": 551,
+    "timeMonth": 752,
+    "timeYear": 573,
     "dailyMinutesDown": {
-      "2023-04-15": 63,
+      "2023-04-16": 65,
+      "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -397,8 +398,7 @@
       "2022-04-20": 1440,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
-      "2022-04-17": 1440,
-      "2022-04-16": 1440
+      "2022-04-17": 1440
     }
   },
   {
@@ -413,8 +413,8 @@
     "uptimeMonth": "99.32%",
     "uptimeYear": "98.84%",
     "time": 505,
-    "timeDay": 308,
-    "timeWeek": 549,
+    "timeDay": 324,
+    "timeWeek": 553,
     "timeMonth": 676,
     "timeYear": 594,
     "dailyMinutesDown": {
@@ -486,8 +486,7 @@
       "2022-05-12": 16,
       "2022-04-27": 17,
       "2022-04-26": 17,
-      "2022-04-19": 409,
-      "2022-04-16": 17
+      "2022-04-19": 409
     }
   },
   {
@@ -514,18 +513,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "30.89%",
+    "uptime": "30.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.18%",
-    "time": 924,
+    "uptimeYear": "0.90%",
+    "time": 926,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 837,
+    "timeYear": 850,
     "dailyMinutesDown": {
-      "2023-04-15": 63,
+      "2023-04-16": 65,
+      "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
