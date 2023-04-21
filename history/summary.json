@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 76,
-    "timeWeek": 164,
+    "time": 112,
+    "timeDay": 79,
+    "timeWeek": 123,
     "timeMonth": 119,
     "timeYear": 105,
     "dailyMinutesDown": {}
@@ -29,12 +29,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 561,
-    "timeDay": 401,
-    "timeWeek": 612,
-    "timeMonth": 685,
+    "timeDay": 203,
+    "timeWeek": 601,
+    "timeMonth": 679,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2023-04-20": 61,
+      "2023-04-21": 61,
+      "2023-04-20": 1440,
       "2023-04-19": 1440,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
@@ -397,8 +398,7 @@
       "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 1440,
-      "2022-04-22": 1440,
-      "2022-04-21": 1440
+      "2022-04-22": 1440
     }
   },
   {
@@ -413,10 +413,10 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "98.92%",
     "time": 509,
-    "timeDay": 351,
-    "timeWeek": 523,
-    "timeMonth": 647,
-    "timeYear": 600,
+    "timeDay": 209,
+    "timeWeek": 510,
+    "timeMonth": 642,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2023-04-01": 110,
       "2023-03-28": 20,
@@ -512,18 +512,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "30.61%",
+    "uptime": "30.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 930,
+    "time": 932,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1054,
     "dailyMinutesDown": {
-      "2023-04-20": 61,
+      "2023-04-21": 61,
+      "2023-04-20": 1440,
       "2023-04-19": 1440,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
@@ -886,8 +887,7 @@
       "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 1440,
-      "2022-04-22": 1440,
-      "2022-04-21": 1440
+      "2022-04-22": 1440
     }
   }
 ]
