@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 128,
-    "timeWeek": 98,
-    "timeMonth": 117,
+    "timeDay": 54,
+    "timeWeek": 93,
+    "timeMonth": 116,
     "timeYear": 105,
     "dailyMinutesDown": {}
   },
@@ -29,12 +29,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 565,
-    "timeDay": 385,
-    "timeWeek": 779,
-    "timeMonth": 698,
-    "timeYear": 584,
+    "timeDay": 185,
+    "timeWeek": 750,
+    "timeMonth": 689,
+    "timeYear": 582,
     "dailyMinutesDown": {
-      "2023-04-29": 63,
+      "2023-04-30": 68,
+      "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
@@ -397,8 +398,7 @@
       "2022-05-04": 1440,
       "2022-05-03": 1440,
       "2022-05-02": 1440,
-      "2022-05-01": 1440,
-      "2022-04-30": 1440
+      "2022-05-01": 1440
     }
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "98.93%",
     "time": 559,
-    "timeDay": 392,
-    "timeWeek": 1036,
-    "timeMonth": 704,
+    "timeDay": 195,
+    "timeWeek": 1008,
+    "timeMonth": 692,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2023-04-23": 19,
@@ -511,18 +511,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "30.13%",
+    "uptime": "30.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 922,
+    "time": 923,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1054,
     "dailyMinutesDown": {
-      "2023-04-29": 63,
+      "2023-04-30": 68,
+      "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
@@ -885,8 +886,7 @@
       "2022-05-04": 1440,
       "2022-05-03": 1440,
       "2022-05-02": 1440,
-      "2022-05-01": 1440,
-      "2022-04-30": 1440
+      "2022-05-01": 1440
     }
   }
 ]
