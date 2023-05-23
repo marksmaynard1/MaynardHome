@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 58,
-    "timeWeek": 89,
-    "timeMonth": 86,
+    "timeDay": 121,
+    "timeWeek": 95,
+    "timeMonth": 87,
     "timeYear": 104,
     "dailyMinutesDown": {}
   },
@@ -29,12 +29,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 570,
-    "timeDay": 0,
-    "timeWeek": 673,
-    "timeMonth": 572,
-    "timeYear": 586,
+    "timeDay": 367,
+    "timeWeek": 335,
+    "timeMonth": 571,
+    "timeYear": 585,
     "dailyMinutesDown": {
-      "2023-05-22": 1097,
+      "2023-05-23": 63,
+      "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -397,8 +398,7 @@
       "2022-05-27": 1440,
       "2022-05-26": 1440,
       "2022-05-25": 1440,
-      "2022-05-24": 1440,
-      "2022-05-23": 1440
+      "2022-05-24": 1440
     }
   },
   {
@@ -408,14 +408,14 @@
     "slug": "home-assistant",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "66.90%",
+    "uptimeDay": "77.94%",
     "uptimeWeek": "92.85%",
     "uptimeMonth": "98.19%",
     "uptimeYear": "98.79%",
-    "time": 544,
-    "timeDay": 494,
-    "timeWeek": 560,
-    "timeMonth": 561,
+    "time": 545,
+    "timeDay": 459,
+    "timeWeek": 570,
+    "timeMonth": 559,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2023-05-22": 380,
@@ -515,7 +515,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "28.92%",
+    "uptime": "28.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -526,7 +526,8 @@
     "timeMonth": 0,
     "timeYear": 1054,
     "dailyMinutesDown": {
-      "2023-05-22": 1097,
+      "2023-05-23": 63,
+      "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -889,8 +890,7 @@
       "2022-05-27": 1440,
       "2022-05-26": 1440,
       "2022-05-25": 1440,
-      "2022-05-24": 1440,
-      "2022-05-23": 1440
+      "2022-05-24": 1440
     }
   }
 ]
