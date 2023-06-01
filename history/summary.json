@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 86,
-    "timeWeek": 83,
+    "timeDay": 83,
+    "timeWeek": 85,
     "timeMonth": 93,
     "timeYear": 105,
     "dailyMinutesDown": {}
@@ -31,10 +31,11 @@
     "time": 573,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 515,
-    "timeYear": 588,
+    "timeMonth": 530,
+    "timeYear": 589,
     "dailyMinutesDown": {
-      "2023-05-31": 72,
+      "2023-06-01": 86,
+      "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
@@ -397,8 +398,7 @@
       "2022-06-05": 1440,
       "2022-06-04": 1440,
       "2022-06-03": 1440,
-      "2022-06-02": 1440,
-      "2022-06-01": 1440
+      "2022-06-02": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "98.09%",
+    "uptime": "97.93%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "10.36%",
-    "uptimeMonth": "77.61%",
-    "uptimeYear": "97.09%",
-    "time": 549,
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "74.29%",
+    "uptimeYear": "96.81%",
+    "time": 550,
     "timeDay": 0,
-    "timeWeek": 511,
-    "timeMonth": 483,
-    "timeYear": 625,
+    "timeWeek": 0,
+    "timeMonth": 488,
+    "timeYear": 626,
     "dailyMinutesDown": {
-      "2023-05-31": 72,
+      "2023-06-01": 86,
+      "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
@@ -521,18 +522,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "28.52%",
+    "uptime": "28.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 944,
+    "time": 946,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-31": 72,
+      "2023-06-01": 86,
+      "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
@@ -895,8 +897,7 @@
       "2022-06-05": 1440,
       "2022-06-04": 1440,
       "2022-06-03": 1440,
-      "2022-06-02": 1440,
-      "2022-06-01": 1440
+      "2022-06-02": 1440
     }
   }
 ]
