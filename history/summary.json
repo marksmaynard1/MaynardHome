@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 385,
-    "timeWeek": 127,
+    "timeDay": 75,
+    "timeWeek": 126,
     "timeMonth": 102,
     "timeYear": 106,
     "dailyMinutesDown": {}
@@ -31,10 +31,11 @@
     "time": 573,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 586,
-    "timeYear": 594,
+    "timeMonth": 606,
+    "timeYear": 595,
     "dailyMinutesDown": {
-      "2023-06-07": 75,
+      "2023-06-08": 73,
+      "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
@@ -397,8 +398,7 @@
       "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
-      "2022-06-09": 1440,
-      "2022-06-08": 1440
+      "2022-06-09": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "96.96%",
+    "uptime": "96.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.63%",
-    "uptimeYear": "95.19%",
-    "time": 552,
+    "uptimeMonth": "51.34%",
+    "uptimeYear": "94.92%",
+    "time": 553,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 512,
-    "timeYear": 632,
+    "timeMonth": 516,
+    "timeYear": 634,
     "dailyMinutesDown": {
-      "2023-06-07": 75,
+      "2023-06-08": 73,
+      "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
@@ -526,7 +527,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "28.19%",
+    "uptime": "28.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -537,7 +538,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-07": 75,
+      "2023-06-08": 73,
+      "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
@@ -900,8 +902,7 @@
       "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
-      "2022-06-09": 1440,
-      "2022-06-08": 1440
+      "2022-06-09": 1440
     }
   }
 ]
