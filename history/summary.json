@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 161,
-    "timeWeek": 96,
-    "timeMonth": 109,
+    "timeDay": 56,
+    "timeWeek": 100,
+    "timeMonth": 100,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2023-06-16": 17
@@ -34,9 +34,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 599,
+    "timeYear": 600,
     "dailyMinutesDown": {
-      "2023-06-23": 78,
+      "2023-06-24": 78,
+      "2023-06-23": 1440,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
       "2023-06-20": 1440,
@@ -399,8 +400,7 @@
       "2022-06-28": 1440,
       "2022-06-27": 1440,
       "2022-06-26": 1440,
-      "2022-06-25": 1440,
-      "2022-06-24": 1440
+      "2022-06-25": 1440
     }
   },
   {
@@ -409,18 +409,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "94.46%",
+    "uptime": "94.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "3.75%",
-    "uptimeYear": "91.39%",
-    "time": 558,
+    "uptimeMonth": "0.46%",
+    "uptimeYear": "91.12%",
+    "time": 559,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 401,
-    "timeYear": 650,
+    "timeMonth": 511,
+    "timeYear": 651,
     "dailyMinutesDown": {
-      "2023-06-23": 78,
+      "2023-06-24": 78,
+      "2023-06-23": 1440,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
       "2023-06-20": 1440,
@@ -538,18 +539,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "27.46%",
+    "uptime": "27.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 985,
+    "time": 986,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-23": 78,
+      "2023-06-24": 78,
+      "2023-06-23": 1440,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
       "2023-06-20": 1440,
@@ -912,8 +914,7 @@
       "2022-06-28": 1440,
       "2022-06-27": 1440,
       "2022-06-26": 1440,
-      "2022-06-25": 1440,
-      "2022-06-24": 1440
+      "2022-06-25": 1440
     }
   }
 ]
