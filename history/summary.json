@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 56,
-    "timeWeek": 100,
-    "timeMonth": 100,
+    "timeDay": 311,
+    "timeWeek": 122,
+    "timeMonth": 108,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2023-06-16": 17
@@ -34,9 +34,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 600,
+    "timeYear": 601,
     "dailyMinutesDown": {
-      "2023-06-24": 78,
+      "2023-06-25": 85,
+      "2023-06-24": 1440,
       "2023-06-23": 1440,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
@@ -399,8 +400,7 @@
       "2022-06-29": 1440,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
-      "2022-06-26": 1440,
-      "2022-06-25": 1440
+      "2022-06-26": 1440
     }
   },
   {
@@ -409,18 +409,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "94.31%",
+    "uptime": "94.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.46%",
-    "uptimeYear": "91.12%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "90.84%",
     "time": 559,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 511,
-    "timeYear": 651,
+    "timeMonth": 0,
+    "timeYear": 652,
     "dailyMinutesDown": {
-      "2023-06-24": 78,
+      "2023-06-25": 85,
+      "2023-06-24": 1440,
       "2023-06-23": 1440,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
@@ -539,7 +540,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "27.42%",
+    "uptime": "27.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -550,7 +551,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-24": 78,
+      "2023-06-25": 85,
+      "2023-06-24": 1440,
       "2023-06-23": 1440,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
@@ -913,8 +915,7 @@
       "2022-06-29": 1440,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
-      "2022-06-26": 1440,
-      "2022-06-25": 1440
+      "2022-06-26": 1440
     }
   }
 ]
