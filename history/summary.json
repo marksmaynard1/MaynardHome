@@ -6,9 +6,9 @@
     "slug": "google",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 106,
     "timeDay": 248,
@@ -16,7 +16,7 @@
     "timeMonth": 142,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2023-07-31": 2,
+      "2023-07-31": 7,
       "2023-07-18": 19,
       "2023-06-16": 17
     }
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2023-07-31": 889,
+      "2023-07-31": 896,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
@@ -411,7 +411,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "88.95%",
+    "uptime": "88.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -422,7 +422,7 @@
     "timeMonth": 0,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2023-07-31": 889,
+      "2023-07-31": 896,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
@@ -585,7 +585,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-31": 889,
+      "2023-07-31": 896,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
