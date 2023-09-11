@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 366,
-    "timeWeek": 163,
+    "timeDay": 97,
+    "timeWeek": 164,
     "timeMonth": 130,
     "timeYear": 113,
     "dailyMinutesDown": {
@@ -31,13 +31,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 578,
+    "time": 579,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2023-09-10": 56,
+      "2023-09-11": 53,
+      "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
@@ -400,8 +401,7 @@
       "2022-09-15": 1440,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
-      "2022-09-12": 1440,
-      "2022-09-11": 1440
+      "2022-09-12": 1440
     }
   },
   {
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "83.81%",
+    "uptime": "83.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.77%",
+    "uptimeYear": "69.50%",
     "time": 597,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 734,
+    "timeYear": 735,
     "dailyMinutesDown": {
-      "2023-09-10": 56,
+      "2023-09-11": 53,
+      "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
@@ -613,7 +614,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "24.36%",
+    "uptime": "24.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -624,7 +625,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-10": 56,
+      "2023-09-11": 53,
+      "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
@@ -987,8 +989,7 @@
       "2022-09-15": 1440,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
-      "2022-09-12": 1440,
-      "2022-09-11": 1440
+      "2022-09-12": 1440
     }
   }
 ]
