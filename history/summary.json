@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 62,
-    "timeWeek": 116,
-    "timeMonth": 132,
+    "timeDay": 85,
+    "timeWeek": 115,
+    "timeMonth": 131,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2023-07-18": 19,
@@ -31,13 +31,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 583,
+    "time": 581,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 601,
+    "timeYear": 602,
     "dailyMinutesDown": {
-      "2023-09-19": 54,
+      "2023-09-20": 54,
+      "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
@@ -400,8 +401,7 @@
       "2022-09-24": 1440,
       "2022-09-23": 1440,
       "2022-09-22": 1440,
-      "2022-09-21": 1440,
-      "2022-09-20": 1440
+      "2022-09-21": 1440
     }
   },
   {
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "82.75%",
+    "uptime": "82.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.31%",
+    "uptimeYear": "67.03%",
     "time": 602,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 742,
+    "timeYear": 743,
     "dailyMinutesDown": {
-      "2023-09-19": 54,
+      "2023-09-20": 54,
+      "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
@@ -622,7 +623,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "24.06%",
+    "uptime": "24.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -633,7 +634,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-19": 54,
+      "2023-09-20": 54,
+      "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
@@ -996,8 +998,7 @@
       "2022-09-24": 1440,
       "2022-09-23": 1440,
       "2022-09-22": 1440,
-      "2022-09-21": 1440,
-      "2022-09-20": 1440
+      "2022-09-21": 1440
     }
   }
 ]
