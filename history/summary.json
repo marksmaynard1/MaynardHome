@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 70,
-    "timeWeek": 112,
+    "timeDay": 73,
+    "timeWeek": 68,
     "timeMonth": 88,
     "timeYear": 112,
     "dailyMinutesDown": {
@@ -31,13 +31,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 591,
+    "time": 592,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 623,
+    "timeYear": 625,
     "dailyMinutesDown": {
-      "2023-12-07": 57,
+      "2023-12-08": 58,
+      "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
@@ -400,8 +401,7 @@
       "2022-12-12": 1440,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
-      "2022-12-09": 1440,
-      "2022-12-08": 1440
+      "2022-12-09": 1440
     }
   },
   {
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "74.46%",
+    "uptime": "74.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "45.85%",
-    "time": 735,
+    "uptimeYear": "45.58%",
+    "time": 736,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 718,
+    "timeYear": 720,
     "dailyMinutesDown": {
-      "2023-12-07": 58,
+      "2023-12-08": 58,
+      "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
@@ -684,7 +685,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "21.65%",
+    "uptime": "21.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -695,7 +696,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-07": 58,
+      "2023-12-08": 58,
+      "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
@@ -1058,8 +1060,7 @@
       "2022-12-12": 1440,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
-      "2022-12-09": 1440,
-      "2022-12-08": 1440
+      "2022-12-09": 1440
     }
   }
 ]
