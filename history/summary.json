@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 65,
+    "timeDay": 93,
     "timeWeek": 74,
     "timeMonth": 84,
-    "timeYear": 112,
+    "timeYear": 111,
     "dailyMinutesDown": {
       "2023-07-18": 19,
       "2023-06-16": 17
@@ -31,13 +31,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 578,
+    "time": 579,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 628,
+    "timeYear": 629,
     "dailyMinutesDown": {
-      "2024-01-04": 57,
+      "2024-01-05": 57,
+      "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
@@ -400,8 +401,7 @@
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
-      "2023-01-06": 1440,
-      "2023-01-05": 1440
+      "2023-01-06": 1440
     }
   },
   {
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "71.91%",
+    "uptime": "71.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.21%",
-    "time": 751,
+    "uptimeYear": "37.93%",
+    "time": 752,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 693,
+    "timeYear": 697,
     "dailyMinutesDown": {
-      "2024-01-04": 57,
+      "2024-01-05": 57,
+      "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
@@ -707,7 +708,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "20.90%",
+    "uptime": "20.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -718,7 +719,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-04": 57,
+      "2024-01-05": 58,
+      "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
@@ -1081,8 +1083,7 @@
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
-      "2023-01-06": 1440,
-      "2023-01-05": 1440
+      "2023-01-06": 1440
     }
   }
 ]
