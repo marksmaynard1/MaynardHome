@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 111,
-    "timeDay": 56,
-    "timeWeek": 72,
+    "time": 110,
+    "timeDay": 74,
+    "timeWeek": 74,
     "timeMonth": 84,
-    "timeYear": 111,
+    "timeYear": 110,
     "dailyMinutesDown": {
       "2023-07-18": 19,
       "2023-06-16": 17
@@ -35,9 +35,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 624,
+    "timeYear": 627,
     "dailyMinutesDown": {
-      "2024-01-07": 62,
+      "2024-01-08": 59,
+      "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
@@ -400,8 +401,7 @@
       "2023-01-12": 1440,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
-      "2023-01-09": 1440,
-      "2023-01-08": 1440
+      "2023-01-09": 1440
     }
   },
   {
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "71.64%",
+    "uptime": "71.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.39%",
-    "time": 754,
+    "uptimeYear": "37.11%",
+    "time": 755,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 687,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2024-01-07": 63,
+      "2024-01-08": 59,
+      "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
@@ -681,8 +682,7 @@
       "2023-01-25": 24,
       "2023-01-20": 18,
       "2023-01-16": 22,
-      "2023-01-11": 22,
-      "2023-01-08": 55
+      "2023-01-11": 22
     }
   },
   {
@@ -709,7 +709,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "20.83%",
+    "uptime": "20.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -720,7 +720,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-07": 63,
+      "2024-01-08": 59,
+      "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
@@ -1083,8 +1084,7 @@
       "2023-01-12": 1440,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
-      "2023-01-09": 1440,
-      "2023-01-08": 1440
+      "2023-01-09": 1440
     }
   }
 ]
