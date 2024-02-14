@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 110,
-    "timeWeek": 125,
+    "timeDay": 64,
+    "timeWeek": 123,
     "timeMonth": 86,
     "timeYear": 109,
     "dailyMinutesDown": {
@@ -35,9 +35,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 627,
+    "timeYear": 630,
     "dailyMinutesDown": {
-      "2024-02-13": 55,
+      "2024-02-14": 55,
+      "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
@@ -400,8 +401,7 @@
       "2023-02-18": 1440,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
-      "2023-02-15": 1440,
-      "2023-02-14": 1440
+      "2023-02-15": 1440
     }
   },
   {
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "68.55%",
+    "uptime": "68.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "27.32%",
+    "uptimeYear": "27.04%",
     "time": 717,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 696,
+    "timeYear": 699,
     "dailyMinutesDown": {
-      "2024-02-13": 55,
+      "2024-02-14": 55,
+      "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
@@ -734,7 +735,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "19.93%",
+    "uptime": "19.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -745,7 +746,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-13": 55,
+      "2024-02-14": 55,
+      "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
@@ -1108,8 +1110,7 @@
       "2023-02-18": 1440,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
-      "2023-02-15": 1440,
-      "2023-02-14": 1440
+      "2023-02-15": 1440
     }
   }
 ]
