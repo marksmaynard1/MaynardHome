@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 87,
-    "timeWeek": 121,
-    "timeMonth": 100,
+    "timeDay": 169,
+    "timeWeek": 137,
+    "timeMonth": 103,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2023-07-18": 19,
@@ -31,13 +31,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
-    "time": 639,
+    "time": 641,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 616,
+    "timeYear": 621,
     "dailyMinutesDown": {
-      "2024-03-08": 54,
+      "2024-03-09": 52,
+      "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
@@ -400,8 +401,7 @@
       "2023-03-14": 1440,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
-      "2023-03-11": 1440,
-      "2023-03-10": 1440
+      "2023-03-11": 1440
     }
   },
   {
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "66.68%",
+    "uptime": "66.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "20.78%",
-    "time": 703,
+    "uptimeYear": "20.53%",
+    "time": 686,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 726,
+    "timeYear": 580,
     "dailyMinutesDown": {
-      "2024-03-08": 54,
+      "2024-03-09": 52,
+      "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
@@ -723,8 +724,7 @@
       "2023-03-26": 19,
       "2023-03-19": 65,
       "2023-03-18": 84,
-      "2023-03-11": 59,
-      "2023-03-10": 35
+      "2023-03-11": 59
     }
   },
   {
@@ -751,7 +751,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynardserver.duckdns.org.ico",
     "slug": "overseer",
     "status": "down",
-    "uptime": "19.38%",
+    "uptime": "19.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -762,7 +762,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-08": 54,
+      "2024-03-09": 52,
+      "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
@@ -1125,8 +1126,7 @@
       "2023-03-14": 1440,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
-      "2023-03-11": 1440,
-      "2023-03-10": 1440
+      "2023-03-11": 1440
     }
   }
 ]
